@@ -1,19 +1,13 @@
-# Furniture App - Flutter UI
+# Amex CodeStreet'20 Credit Card Fraud Detection App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/bkR7naR1efA)
+# Description:
 
-**Packages we are using:**
+This app is designed as the frontend for an example furniture store which includes our API endpoint for checking whether the transaction being conducted on this store is fraudulent or is it safe and trusted.
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- goole_fonts: [link](https://pub.dev/packages/google_fonts)
-
-**Fonts**
-
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
-
-We design two pages one is the product page with a search bar at the top then the category list at the end list of products. And another one is the details page provides you more details about the product like price, long description, at the bottom chat, and add to cart button.
-
-### Furniture App Final UI
+### Credit Card Fraud Detection App Final UI
 ![Preview](/gif.gif)
 
-![App UI](/ui.png)
+![App UI1](/Screenshot_20200820-001546.jpg)
+![App UI2](/Screenshot_20200820-001641.jpg)
+![App UI3](/Screenshot_20200820-001542.jpg)
+
