@@ -1,4 +1,4 @@
-# Furniture App - Flutter UI
+# Amex CodeStreet'20 Credit Card Fraud Detection App - Flutter UI
 
 ## [Watch it on YouTube](https://youtu.be/bkR7naR1efA)
 
