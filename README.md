@@ -7,4 +7,7 @@ This app is designed as the frontend for an example furniture store which includ
 ### Credit Card Fraud Detection App Final UI
 ![Preview](/gif.gif)
 
-![App UI](/ui.png)
+![App UI1](/Screenshot_20200820-001546.jpg)
+![App UI2](/Screenshot_20200820-001641.jpg)
+![App UI3](/Screenshot_20200820-001542.jpg)
+
