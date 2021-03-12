@@ -1,4 +1,4 @@
-# Amex CodeStreet'20 Credit Card Fraud Detection App - Flutter UI
+# Credit Card Fraud Detection App - Flutter UI
 ### Flask Backend:https://drive.google.com/file/d/1xqBrABaUgM7Ekk421j-Fly9qck9Y0LZz/view?usp=sharing
 
 # Description:
